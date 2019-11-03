@@ -1,1 +1,1 @@
-# Clustering-and-sebmentation-of-Toronto-Neighbourhoods
+# Clustering-and-segmentation-of-Toronto-Neighbourhoods
